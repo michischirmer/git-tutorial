@@ -1,3 +1,4 @@
-build/
-bin/
-!build/.gitkeep
+doc/html
+doc/latex
+bin
+build
